@@ -18,3 +18,11 @@ function! HTMLFold()
     setl foldlevel=1
 
 endfunction
+
+setl tabstop=2
+setl shiftwidth=2
+setl expandtab
+
+
+map <f7> :set paste<CR>
+map <f8> :set nopaste<CR>
