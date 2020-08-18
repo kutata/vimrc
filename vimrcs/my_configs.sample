@@ -1,0 +1,5 @@
+" basic
+set nu
+
+" NERDTree
+let g:NERDTreeWinPos="left"
